@@ -4,6 +4,7 @@
 > Built during the **Build Your First AI App** bootcamp with [cloudwithshad](https://ai-with-python-for-all.netlify.app/).
 
 **👤 Name:** Amos Kwaw
+** 🎯Goal: ** To be ML Engineer
 **📅 Cohort:** July 2026
 **🔗 My live app:** _(paste your .streamlit.app link here when you deploy in Week 5!)_
 
